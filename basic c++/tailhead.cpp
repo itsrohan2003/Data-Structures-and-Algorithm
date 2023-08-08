@@ -4,7 +4,7 @@ void fun(int n){
     if(n>0){
         cout<<n<<endl;
         fun(n-1);
-    }
+    }//this is tail recursion.
 }
 int main(){
     int x=3;
