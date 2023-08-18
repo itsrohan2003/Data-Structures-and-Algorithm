@@ -1,0 +1,16 @@
+data:-
+1. array space
+2. size
+3. length
+
+operations:-
+display()
+add(x)
+insert(index x)
+delete(index)
+search(x)
+get(index)
+set(index x)
+max()/min()
+reverse()
+shift()/rotate()
