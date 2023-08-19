@@ -39,3 +39,4 @@ int main(){
     arr.length=arr.size=5;
     cout<<binarysearch(arr,67);
 }
+//time complexity is o(logn)
